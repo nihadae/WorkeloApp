@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645152468931",
+    "project_id": "workelo",
+    "storage_bucket": "workelo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645152468931:android:59a5e7a76c10f8bfe25776",
+        "android_client_info": {
+          "package_name": "com.example.workeloapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645152468931-5tkqionnb71ir7c12dp4mn975sdmufp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOrAMvv0OnGVdO3-MHoosaEmMzAvSIDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645152468931-5tkqionnb71ir7c12dp4mn975sdmufp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
